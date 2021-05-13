@@ -1,0 +1,13 @@
+build/*
+.vscode/*
+*.txt
+*.cfg
+__*
+*.o
+*.bak
+core*
+rundb
+runcl
+3TS
+3TS-DAI
+contrib/deneva/obj/deps
